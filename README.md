@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Yuktha T P 👋
 
-<!--
-**yukthaprabhu/yukthaprabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science and Engineering student at B.N.M. Institute of Technology.
 
-Here are some ideas to get you started:
+💻 Currently building my skills in Python, SQL, Data Analytics, Git, and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy working on practical projects and learning new technologies.
+
+🌱 Currently learning Python, SQL, Pandas, and Data Analysis.
+
+🎯 My current goal is to gain practical experience through internships and contribute to real-world projects.
+
+## 🛠️ Skills
+
+- Python
+- Java
+- SQL
+- MySQL
+- HTML & CSS
+- Git & GitHub
+- UiPath
+
+## 📌 Projects
+
+🚑 Emergency Response Coordination System
+
+🤖 PDF Data Extractor using UiPath
+
+🌿 Odour Detection and Automatic Freshening System
+
+## 🏆 Activities & Achievements
+
+- NCC Cadet
+- Athlete
+- Participated in CTF and technical events
+- Photography Runner-up
+
+## 📫 Connect With Me
+
+LinkedIn: Coming Soon
